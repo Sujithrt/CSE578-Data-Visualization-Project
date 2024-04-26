@@ -37,6 +37,6 @@ pip install -r requirements.txt
 ```
 
 ### 4. Download the dataset
-You need to download the dataset and information about it from the below links:
-[adult.data](https://archive.ics.uci.edu/ml/machine-learning-databases/adult/adult.data)
-[adult.names](https://archive.ics.uci.edu/ml/machine-learning-databases/adult/adult.names)
+You need to download the dataset and information about it from the below links and save them in a folder called 'dataset':
+- [adult.data](https://archive.ics.uci.edu/ml/machine-learning-databases/adult/adult.data)
+- [adult.names](https://archive.ics.uci.edu/ml/machine-learning-databases/adult/adult.names)
